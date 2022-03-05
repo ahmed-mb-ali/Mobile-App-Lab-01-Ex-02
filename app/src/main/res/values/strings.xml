@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ahmedali_COMP304Sec003_Lab001_Ex2</string>
+
+    <!-- Main Activity-->
+    <string name="mainActivity">Main Activity:</string>
+    <string name="mainActivityOnCreate">onCreate executed</string>
+    <string name="mainActivityOnStart">onStart executed</string>
+
+    <!-- FirstFragment -->
+    <string name="fragment1_onCreate">fragment 1 onCreate executed</string>
+    <string name="fragment1_onStart">fragment 1 onStart executed</string>
+
+    <!-- SecondFragment -->
+    <string name="fragment2_onCreate">fragment 2 onCreate executed</string>
+    <string name="fragment2_onStart">fragment 2 onStart executed</string>
+
+
+    <!-- AI Activity -->
+    <string name="aiOnCreate">onCreate executed</string>
+    <string name="aiOnStop">onStop executed</string>
+    <string name="aiOnDestroy">onDestroy executed</string>
+    <string name="aiOnStart">onStart executed</string>
+
+    <!-- VR Activity -->
+    <string name="vrOnCreate">onCreate executed</string>
+    <string name="vrOnStop">onStop executed</string>
+    <string name="vrOnDestroy">onDestroy executed</string>
+    <string name="vrOnStart">onStart executed</string>
+
+
+
+</resources>
